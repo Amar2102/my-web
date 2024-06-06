@@ -1,0 +1,60 @@
+.heading{
+    color:darkcyan;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: left;
+    
+}
+
+.para{
+    color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+
+}
+
+.btn{
+    background-color: darkcyan;
+    color: white;
+    border-radius: 15px;
+    border: 20px;
+    margin: 5px;
+    padding: 10px;
+}
+.ha2{
+    color: darkcyan;
+    font-size: 30px;
+    font-family: sans-serif
+}
+
+.button{
+    color: white
+    padding: 10px;
+    margin:5px;
+    border: 5px;
+    border-radius: 15px;
+    padding:10px;
+    
+}
+
+.body{
+    color: chartreuse;
+}
+
+.card{
+    size: 15px;
+    padding: 10px;
+
+}
+
+.cont{
+    color: white;
+    background-color: black;
+}
+
+.paragraph{
+    color: crimson;
+    font-size: 30px;
+    font-family:monospace;
+}
